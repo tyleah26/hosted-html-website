@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title> BlissfulYOU Spa</title>  
+  <meta charset="utf-8" />
+  <meta name="description" content="Free Web tutorials">
+  <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+  <meta naem="author" content="John Doe">
+  <meta name="viewport" content=""width=device-width, intial-scale="1.0" />
+</head>
+
+
+<body>
+    <header> 
+        <h1>A LOCAL SPA NEAR YOU, WHERE YOU ENTER FEELING BLUE, BUT LEAVE FEELING LIKE YOU</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href= "secondPage.html">Booking</a></li>
+            <li><a href ="contactUs.html">Review</a></li>
+        </ul>
+        <form action="action_page.php">
+            <input type="text"placeholder="Search.."name="search">
+            <button type="submit"><i class="fa fa-search"></i></button>
+        </form>
+    </header>
+    <main>
+        <img src="image.png">
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>
